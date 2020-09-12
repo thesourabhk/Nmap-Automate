@@ -20,11 +20,10 @@ step 3: run the python script
 
 step 4: Welcome screen of the tool
 
-![4](https://user-images.githubusercontent.com/13975575/30106216-60bdb010-9318-11e7-8f69-050051c98ae2.JPG)
+![4](https://imgur.com/WgYoOpX.png)
 
 
 step 5: type "help" to play with the tool
 
 ![5](https://user-images.githubusercontent.com/13975575/30106243-744fe896-9318-11e7-8196-d434d89d92a7.JPG)
 
-https://imgur.com/WgYoOpX.png
